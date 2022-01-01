@@ -11,6 +11,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 
 ## Deployment
 
+* [bootc/netbox-chart](https://github.com/bootc/netbox-chart) - A Helm chart for NetBox
 * [lae/ansible-role-netbox](https://github.com/lae/ansible-role-netbox) - Cross-platform Ansible role for deploying NetBox
 * [osism/ansible-collection-services](https://github.com/osism/ansible-collection-services) - Ansible role for deploying NetBox inside a container
 

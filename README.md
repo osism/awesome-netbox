@@ -25,6 +25,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 
 * [TheNetworkGuy/netbox-zabbix-sync](https://github.com/TheNetworkGuy/netbox-zabbix-sync) - Python script to syncronise Netbox devices to Zabbix
 * [bb-Ricardo/netbox-sync](https://github.com/bb-Ricardo/netbox-sync) - A tool to sync data from different sources (VMware, Redfish) to a NetBox instance
+
 ## SDKs
 
 * [netbox-community/go-netbox](https://github.com/netbox-community/go-netbox) - Go API client library

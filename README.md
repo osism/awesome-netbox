@@ -44,3 +44,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 
 * [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A CoreDNS plugin to get dns records from NetBox
 * [wvandeun/nornir_netbox](https://github.com/wvandeun/nornir_netbox) - NetBox plugin for Nornir
+
+## Forks
+
+* [nautobot/nautobot](https://github.com/nautobot/nautobot) - Nautobot is a Network Source of Truth and Network Automation Platform, initially developed as a fork of NetBox v2.10.4

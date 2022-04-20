@@ -6,8 +6,8 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 
 ## Automation
 
-* [netbox-community/ansible_modules](https://github.com/netbox-community/ansible_modules) - NetBox modules for Ansible using Ansible Collections
 * [e-breuninger/terraform-provider-netbox](https://github.com/e-breuninger/terraform-provider-netbox) - Terraform provider to interact with Netbox
+* [netbox-community/ansible_modules](https://github.com/netbox-community/ansible_modules) - NetBox modules for Ansible using Ansible Collections
 
 ## Deployment
 
@@ -17,15 +17,15 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 
 ## Utilities
 
-* [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions
 * [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import) - The library is intended to be your friend and help you import all the device-types defined within the the NetBox Device Type Library Repository
+* [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions
 * [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) - Project aims to create hardware automatically into Netbox based on standard tools (dmidecode, lldpd, parsing /sys/, etc)
 
 ## Synchronization
 
-* [TheNetworkGuy/netbox-zabbix-sync](https://github.com/TheNetworkGuy/netbox-zabbix-sync) - Python script to syncronise Netbox devices to Zabbix
 * [bb-Ricardo/netbox-sync](https://github.com/bb-Ricardo/netbox-sync) - A tool to sync data from different sources (VMware, Redfish) to a NetBox instance
 * [scaleway/netbox2netshot](https://github.com/scaleway/netbox2netshot) - Inventory synchronization tool between Netbox and Netshot
+* [TheNetworkGuy/netbox-zabbix-sync](https://github.com/TheNetworkGuy/netbox-zabbix-sync) - Python script to syncronise Netbox devices to Zabbix
 
 ## Exporters
 

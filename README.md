@@ -47,6 +47,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 * [k01ek/netbox-qrcode](https://github.com/k01ek/netbox-qrcode) - Plugin for generate QR codes for objects: Rack, Device, Cable
 * [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - A netbox plugin that draws topology views
 * [minitriga/axians-netbox-plugin-pdu](https://github.com/minitriga/axians-netbox-plugin-pdu) - Plugin to get PDU information
+* [renatoalmeidaoliveira/nbservice](https://github.com/renatoalmeidaoliveira/nbservice) - Plugin for ITSM service mapping
 * [networktocode/ntc-netbox-plugin-onboarding](https://github.com/networktocode/ntc-netbox-plugin-onboarding) - Plugin to easily onboard new devices using Netmiko, NAPALM & Django-RQ
 
 ## Integrations

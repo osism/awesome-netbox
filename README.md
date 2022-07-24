@@ -37,6 +37,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 
 * [netbox-community/go-netbox](https://github.com/netbox-community/go-netbox) - Go API client library
 * [netbox-community/pynetbox](https://github.com/netbox-community/pynetbox) - Python API client library
+* [ninech/netbox-client-ruby](https://github.com/ninech/netbox-client-ruby) - Ruby API client library
 
 ## Plugins
 

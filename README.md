@@ -53,6 +53,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 
 ## Integrations
 
+* [netdevopsbr/netbox-proxbox](https://github.com/netdevopsbr/netbox-proxbox) - Netbox Plugin for integration between Proxmox and Netbox
 * [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A CoreDNS plugin to get dns records from NetBox
 * [wvandeun/nornir_netbox](https://github.com/wvandeun/nornir_netbox) - NetBox plugin for Nornir
 

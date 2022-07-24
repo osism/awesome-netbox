@@ -8,6 +8,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 
 * [e-breuninger/terraform-provider-netbox](https://github.com/e-breuninger/terraform-provider-netbox) - Terraform provider to interact with Netbox
 * [netbox-community/ansible_modules](https://github.com/netbox-community/ansible_modules) - NetBox modules for Ansible using Ansible Collections
+* [smutel/terraform-provider-netbox](https://github.com/smutel/terraform-provider-netbox) - Terraform provider for Netbox
 
 ## Deployment
 

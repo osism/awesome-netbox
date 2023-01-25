@@ -27,9 +27,10 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 
 ## Synchronization
 
+* [TheNetworkGuy/netbox-zabbix-sync](https://github.com/TheNetworkGuy/netbox-zabbix-sync) - Python script to syncronise Netbox devices to Zabbix
 * [bb-Ricardo/netbox-sync](https://github.com/bb-Ricardo/netbox-sync) - A tool to sync data from different sources (VMware, Redfish) to a NetBox instance
 * [scaleway/netbox2netshot](https://github.com/scaleway/netbox2netshot) - Inventory synchronization tool between Netbox and Netshot
-* [TheNetworkGuy/netbox-zabbix-sync](https://github.com/TheNetworkGuy/netbox-zabbix-sync) - Python script to syncronise Netbox devices to Zabbix
+* [stfc/Netbox-utils](https://github.com/stfc/Netbox-utils) - Scripts and Utilities for querying and updating information in Netbox
 
 ## Exporters
 
@@ -38,10 +39,16 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 ## SDKs
 
 * [benclaussen/NetboxPS](https://github.com/benclaussen/NetboxPS) - Powershell module for Netbox
+* [hexa2k9/netbox-php](https://github.com/hexa2k9/netbox-php) - PHP API client library
 * [jagter/python-netbox](https://github.com/jagter/python-netbox) - Python Netbox client
 * [netbox-community/go-netbox](https://github.com/netbox-community/go-netbox) - Go API client library
 * [netbox-community/pynetbox](https://github.com/netbox-community/pynetbox) - Python API client library
 * [ninech/netbox-client-ruby](https://github.com/ninech/netbox-client-ruby) - Ruby API client library
+* [timeforplanb123/anac](https://github.com/timeforplanb123/anac) - Python Async API client library
+
+## CLIs
+
+* [ericgeldmacher/nbcli](https://github.com/ericgeldmacher/nbcli) - NetBox Command-line Client using the pynetbox module
 
 ## Plugins
 
@@ -54,9 +61,12 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 * [k01ek/netbox-qrcode](https://github.com/k01ek/netbox-qrcode) - Plugin for generate QR codes for objects: Rack, Device, Cable
 * [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - A netbox plugin that draws topology views
 * [minitriga/axians-netbox-plugin-pdu](https://github.com/minitriga/axians-netbox-plugin-pdu) - Plugin to get PDU information
+* [mlebreuil/netbox-contract](https://github.com/mlebreuil/netbox-contract) - Plugin that adds a contracts and invoices model
 * [networktocode/ntc-netbox-plugin-onboarding](https://github.com/networktocode/ntc-netbox-plugin-onboarding) - Plugin to easily onboard new devices using Netmiko, NAPALM & Django-RQ
 * [renatoalmeidaoliveira/nbservice](https://github.com/renatoalmeidaoliveira/nbservice) - Plugin for ITSM service mapping
+* [ryanmerolle/netbox-acls](https://github.com/ryanmerolle/netbox-acls) - NetBox Access Lists Plugin
 * [sjm-steffann/netbox-ddns](https://github.com/sjm-steffann/netbox-ddns) - Dynamic DNS Connector for NetBox
+* [tobiasge/netbox-initializers](https://github.com/tobiasge/netbox-initializers) - Netbox Initializers Plugin
 * [vapor-ware/netbox-virtual-circuit-plugin](https://github.com/vapor-ware/netbox-virtual-circuit-plugin) - Plugin for NetBox that supports Virtual Circuit management
 
 ## Integrations
@@ -69,3 +79,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 ## Forks
 
 * [nautobot/nautobot](https://github.com/nautobot/nautobot) - Nautobot is a Network Source of Truth and Network Automation Platform, initially developed as a fork of NetBox v2.10.4
+
+## Inspirations
+
+* [wobcom/cosmo](https://github.com/wobcom/cosmo) - Cosmo is another fairy that converting Netbox data into input data for our (wobcom) templating solution

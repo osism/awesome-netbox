@@ -13,8 +13,10 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 ## Deployment
 
 * [bootc/netbox-chart](https://github.com/bootc/netbox-chart) - A Helm chart for NetBox
+* [gmazoyer/ansible-role-netbox](https://github.com/gmazoyer/ansible-role-netbox) - Ansible role that installs on Debian/Ubuntu
 * [lae/ansible-role-netbox](https://github.com/lae/ansible-role-netbox) - Cross-platform Ansible role for deploying NetBox
-* [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - Docker Image of NetBox
+* [linuxserver/docker-netbox](https://github.com/linuxserver/docker-netbox) - Docker image of NetBox
+* [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - Docker image of NetBox
 * [osism/ansible-collection-services](https://github.com/osism/ansible-collection-services) - Ansible role for deploying NetBox inside a container
 
 ## Utilities
@@ -36,6 +38,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 ## SDKs
 
 * [benclaussen/NetboxPS](https://github.com/benclaussen/NetboxPS) - Powershell module for Netbox
+* [jagter/python-netbox](https://github.com/jagter/python-netbox) - Python Netbox client
 * [netbox-community/go-netbox](https://github.com/netbox-community/go-netbox) - Go API client library
 * [netbox-community/pynetbox](https://github.com/netbox-community/pynetbox) - Python API client library
 * [ninech/netbox-client-ruby](https://github.com/ninech/netbox-client-ruby) - Ruby API client library
@@ -53,10 +56,12 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 * [minitriga/axians-netbox-plugin-pdu](https://github.com/minitriga/axians-netbox-plugin-pdu) - Plugin to get PDU information
 * [networktocode/ntc-netbox-plugin-onboarding](https://github.com/networktocode/ntc-netbox-plugin-onboarding) - Plugin to easily onboard new devices using Netmiko, NAPALM & Django-RQ
 * [renatoalmeidaoliveira/nbservice](https://github.com/renatoalmeidaoliveira/nbservice) - Plugin for ITSM service mapping
+* [sjm-steffann/netbox-ddns](https://github.com/sjm-steffann/netbox-ddns) - Dynamic DNS Connector for NetBox
 * [vapor-ware/netbox-virtual-circuit-plugin](https://github.com/vapor-ware/netbox-virtual-circuit-plugin) - Plugin for NetBox that supports Virtual Circuit management
 
 ## Integrations
 
+* [StackStorm-Exchange/stackstorm-netbox](https://github.com/StackStorm-Exchange/stackstorm-netbox) - NetBox plugin for StackStorm
 * [netdevopsbr/netbox-proxbox](https://github.com/netdevopsbr/netbox-proxbox) - Netbox Plugin for integration between Proxmox and Netbox
 * [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A CoreDNS plugin to get dns records from NetBox
 * [wvandeun/nornir_netbox](https://github.com/wvandeun/nornir_netbox) - NetBox plugin for Nornir

@@ -48,7 +48,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 
 ## CLIs
 
-* [ericgeldmacher/nbcli](https://github.com/ericgeldmacher/nbcli) - NetBox Command-line Client using the pynetbox module
+* [nbcli/nbcli](https://codeberg.org/nbcli/nbcli) - NetBox Command-line Client using the pynetbox module
 
 ## Plugins
 

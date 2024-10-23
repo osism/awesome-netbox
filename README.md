@@ -63,6 +63,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 * [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - A netbox plugin that draws topology views
 * [minitriga/axians-netbox-plugin-pdu](https://github.com/minitriga/axians-netbox-plugin-pdu) - Plugin to get PDU information
 * [mlebreuil/netbox-contract](https://github.com/mlebreuil/netbox-contract) - Plugin that adds a contracts and invoices model
+* [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - git-like branching functionality for NetBox
 * [networktocode/ntc-netbox-plugin-onboarding](https://github.com/networktocode/ntc-netbox-plugin-onboarding) - Plugin to easily onboard new devices using Netmiko, NAPALM & Django-RQ
 * [renatoalmeidaoliveira/nbservice](https://github.com/renatoalmeidaoliveira/nbservice) - Plugin for ITSM service mapping
 * [ryanmerolle/netbox-acls](https://github.com/ryanmerolle/netbox-acls) - NetBox Access Lists Plugin

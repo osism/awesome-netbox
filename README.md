@@ -52,6 +52,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 
 ## Plugins
 
+* [Alef-Burzmali/netbox-data-flows](https://github.com/Alef-Burzmali/netbox-data-flows) - Document data flows between systems and applications
 * [DanSheps/netbox-secretstore](https://github.com/DanSheps/netbox-secretstore) - Continuation of the NetBox secrets app
 * [FlxPeters/netbox-plugin-prometheus-sd](https://github.com/FlxPeters/netbox-plugin-prometheus-sd) - Plugin to use Netbox as service discovery for Prometheus
 * [auroraresearchlab/netbox-dns](https://github.com/auroraresearchlab/netbox-dns) - Plugin for managing zone, nameserver and record inventory

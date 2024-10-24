@@ -56,6 +56,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 * [Alef-Burzmali/netbox-data-flows](https://github.com/Alef-Burzmali/netbox-data-flows) - Document data flows between systems and applications
 * [DanSheps/netbox-secretstore](https://github.com/DanSheps/netbox-secretstore) - Continuation of the NetBox secrets app
 * [FlxPeters/netbox-plugin-prometheus-sd](https://github.com/FlxPeters/netbox-plugin-prometheus-sd) - Plugin to use Netbox as service discovery for Prometheus
+* [JonasEinfach/netbox-os-manager](https://github.com/JonasEinfach/netbox-os-manager) - manage operating systems on your network devices
 * [auroraresearchlab/netbox-dns](https://github.com/auroraresearchlab/netbox-dns) - Plugin for managing zone, nameserver and record inventory
 * [gardunha/netbox-routeros](https://github.com/gardunha/netbox-routeros) - Netbox plugin for auto-configuring Mikrotik RouterOS devices
 * [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - Topology visualization plugin

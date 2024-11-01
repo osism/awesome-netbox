@@ -59,6 +59,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 * [JonasEinfach/netbox-os-manager](https://github.com/JonasEinfach/netbox-os-manager) - manage operating systems on your network devices
 * [auroraresearchlab/netbox-dns](https://github.com/auroraresearchlab/netbox-dns) - Plugin for managing zone, nameserver and record inventory
 * [bonzo81/netbox-librenms-plugin](https://github.com/bonzo81/netbox-librenms-plugin) - Sync data between LibreNMS and Netbox
+* [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea) - Management of Kea DHCP leases
 * [gardunha/netbox-routeros](https://github.com/gardunha/netbox-routeros) - Netbox plugin for auto-configuring Mikrotik RouterOS devices
 * [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - Topology visualization plugin
 * [k01ek/netbox-bgp](https://github.com/k01ek/netbox-bgp) - Plugin for BGP related objects documentation

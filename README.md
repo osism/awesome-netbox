@@ -75,6 +75,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 * [peteeckel/netbox-plugin-dns](https://github.com/peteeckel/netbox-plugin-dns) - Plugin for managing DNS data
 * [renatoalmeidaoliveira/nbservice](https://github.com/renatoalmeidaoliveira/nbservice) - Plugin for ITSM service mapping
 * [sjm-steffann/netbox-ddns](https://github.com/sjm-steffann/netbox-ddns) - Dynamic DNS Connector for NetBox
+* [slurpit.io/slurpit_netbox](https://gitlab.com/slurpit.io/slurpit_netbox) - Automatically Discover & Onboard your live Network in NetBox
 * [tobiasge/netbox-initializers](https://github.com/tobiasge/netbox-initializers) - Netbox Initializers Plugin
 * [vapor-ware/netbox-virtual-circuit-plugin](https://github.com/vapor-ware/netbox-virtual-circuit-plugin) - Virtual Circuit management
 

@@ -68,11 +68,11 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 * [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - A netbox plugin that draws topology views
 * [minitriga/axians-netbox-plugin-pdu](https://github.com/minitriga/axians-netbox-plugin-pdu) - Plugin to get PDU information
 * [mlebreuil/netbox-contract](https://github.com/mlebreuil/netbox-contract) - Plugin that adds a contracts and invoices model
+* [netbox-community/netbox-acls](https://github.com/netbox-community/netbox-acls) - NetBox Access Lists Plugin
 * [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - git-like branching functionality for NetBox
 * [networktocode/ntc-netbox-plugin-onboarding](https://github.com/networktocode/ntc-netbox-plugin-onboarding) - Plugin to easily onboard new devices using Netmiko, NAPALM & Django-RQ
 * [peteeckel/netbox-plugin-dns](https://github.com/peteeckel/netbox-plugin-dns) - Plugin for managing DNS data
 * [renatoalmeidaoliveira/nbservice](https://github.com/renatoalmeidaoliveira/nbservice) - Plugin for ITSM service mapping
-* [ryanmerolle/netbox-acls](https://github.com/ryanmerolle/netbox-acls) - NetBox Access Lists Plugin
 * [sjm-steffann/netbox-ddns](https://github.com/sjm-steffann/netbox-ddns) - Dynamic DNS Connector for NetBox
 * [tobiasge/netbox-initializers](https://github.com/tobiasge/netbox-initializers) - Netbox Initializers Plugin
 * [vapor-ware/netbox-virtual-circuit-plugin](https://github.com/vapor-ware/netbox-virtual-circuit-plugin) - Virtual Circuit management

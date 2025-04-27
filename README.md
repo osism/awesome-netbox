@@ -54,36 +54,29 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 ## Plugins
 
 * [Alef-Burzmali/netbox-data-flows](https://github.com/Alef-Burzmali/netbox-data-flows) - Document data flows between systems and applications
-* [DanSheps/netbox-secretstore](https://github.com/DanSheps/netbox-secretstore) - Continuation of the NetBox secrets app
 * [FlxPeters/netbox-plugin-prometheus-sd](https://github.com/FlxPeters/netbox-plugin-prometheus-sd) - Plugin to use Netbox as service discovery for Prometheus
 * [JonasEinfach/netbox-os-manager](https://github.com/JonasEinfach/netbox-os-manager) - manage operating systems on your network devices
-* [auroraresearchlab/netbox-dns](https://github.com/auroraresearchlab/netbox-dns) - Plugin for managing zone, nameserver and record inventory
 * [bonzo81/netbox-librenms-plugin](https://github.com/bonzo81/netbox-librenms-plugin) - Sync data between LibreNMS and Netbox
 * [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea) - Management of Kea DHCP leases
 * [devon-mar/netbox-lists](https://github.com/devon-mar/netbox-lists) - Generate IP and prefix lists
-* [gardunha/netbox-routeros](https://github.com/gardunha/netbox-routeros) - Netbox plugin for auto-configuring Mikrotik RouterOS devices
 * [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - Topology visualization plugin
 * [k01ek/netbox-bgp](https://github.com/k01ek/netbox-bgp) - Plugin for BGP related objects documentation
 * [k01ek/netbox-qrcode](https://github.com/k01ek/netbox-qrcode) - Plugin for generate QR codes for objects: Rack, Device, Cable
 * [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - A netbox plugin that draws topology views
-* [minitriga/axians-netbox-plugin-pdu](https://github.com/minitriga/axians-netbox-plugin-pdu) - Plugin to get PDU information
 * [mlebreuil/netbox-contract](https://github.com/mlebreuil/netbox-contract) - Plugin that adds a contracts and invoices model
 * [netbox-community/netbox-acls](https://github.com/netbox-community/netbox-acls) - NetBox Access Lists Plugin
 * [netbox-community/netbox-floorplan-plugin](https://github.com/netbox-community/netbox-floorplan-plugin) - Netbox plugin providing floorplan mapping capability for locations and sites
 * [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - git-like branching functionality for NetBox
-* [networktocode/ntc-netbox-plugin-onboarding](https://github.com/networktocode/ntc-netbox-plugin-onboarding) - Plugin to easily onboard new devices using Netmiko, NAPALM & Django-RQ
 * [peteeckel/netbox-plugin-dns](https://github.com/peteeckel/netbox-plugin-dns) - Plugin for managing DNS data
 * [renatoalmeidaoliveira/nbservice](https://github.com/renatoalmeidaoliveira/nbservice) - Plugin for ITSM service mapping
 * [sjm-steffann/netbox-ddns](https://github.com/sjm-steffann/netbox-ddns) - Dynamic DNS Connector for NetBox
 * [slurpit.io/slurpit_netbox](https://gitlab.com/slurpit.io/slurpit_netbox) - Automatically Discover & Onboard your live Network in NetBox
 * [tobiasge/netbox-initializers](https://github.com/tobiasge/netbox-initializers) - Netbox Initializers Plugin
-* [vapor-ware/netbox-virtual-circuit-plugin](https://github.com/vapor-ware/netbox-virtual-circuit-plugin) - Virtual Circuit management
 
 ## Integrations
 
 * [StackStorm-Exchange/stackstorm-netbox](https://github.com/StackStorm-Exchange/stackstorm-netbox) - NetBox plugin for StackStorm
 * [netdevopsbr/netbox-proxbox](https://github.com/netdevopsbr/netbox-proxbox) - Netbox Plugin for integration between Proxmox and Netbox
-* [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A CoreDNS plugin to get dns records from NetBox
 * [wvandeun/nornir_netbox](https://github.com/wvandeun/nornir_netbox) - NetBox plugin for Nornir
 
 ## Forks
@@ -93,3 +86,15 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 ## Inspirations
 
 * [wobcom/cosmo](https://github.com/wobcom/cosmo) - Cosmo is another fairy that converting Netbox data into input data for our (wobcom) templating solution
+
+## Archived
+
+Repositories that are archived or where the last commit was made some time ago (2 years).
+
+* [DanSheps/netbox-secretstore](https://github.com/DanSheps/netbox-secretstore) - Continuation of the NetBox secrets app
+* [auroraresearchlab/netbox-dns](https://github.com/auroraresearchlab/netbox-dns) - Plugin for managing zone, nameserver and record inventory
+* [gardunha/netbox-routeros](https://github.com/gardunha/netbox-routeros) - Netbox plugin for auto-configuring Mikrotik RouterOS devices
+* [minitriga/axians-netbox-plugin-pdu](https://github.com/minitriga/axians-netbox-plugin-pdu) - Plugin to get PDU information
+* [networktocode/ntc-netbox-plugin-onboarding](https://github.com/networktocode/ntc-netbox-plugin-onboarding) - Plugin to easily onboard new devices using Netmiko, NAPALM & Django-RQ
+* [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A CoreDNS plugin to get dns records from NetBox
+* [vapor-ware/netbox-virtual-circuit-plugin](https://github.com/vapor-ware/netbox-virtual-circuit-plugin) - Virtual Circuit management

@@ -18,7 +18,6 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 * [lae/ansible-role-netbox](https://github.com/lae/ansible-role-netbox) - Cross-platform Ansible role for deploying NetBox
 * [linuxserver/docker-netbox](https://github.com/linuxserver/docker-netbox) - Docker image of NetBox
 * [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - Docker image of NetBox
-* [osism/ansible-collection-services](https://github.com/osism/ansible-collection-services) - Ansible role for deploying NetBox inside a container
 
 ## Utilities
 

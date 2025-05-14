@@ -55,12 +55,12 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 * [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea) - Management of Kea DHCP leases
 * [devon-mar/netbox-lists](https://github.com/devon-mar/netbox-lists) - Generate IP and prefix lists
 * [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - Topology visualization plugin
-* [k01ek/netbox-bgp](https://github.com/k01ek/netbox-bgp) - Plugin for BGP related objects documentation
-* [k01ek/netbox-qrcode](https://github.com/k01ek/netbox-qrcode) - Plugin for generate QR codes for objects: Rack, Device, Cable
 * [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - A netbox plugin that draws topology views
 * [mlebreuil/netbox-contract](https://github.com/mlebreuil/netbox-contract) - Plugin that adds a contracts and invoices model
 * [netbox-community/netbox-acls](https://github.com/netbox-community/netbox-acls) - NetBox Access Lists Plugin
+* [netbox-community/netbox-bgp](https://github.com/netbox-community/netbox-bgp) - Plugin for BGP related objects documentation
 * [netbox-community/netbox-floorplan-plugin](https://github.com/netbox-community/netbox-floorplan-plugin) - Netbox plugin providing floorplan mapping capability for locations and sites
+* [netbox-community/netbox-qrcode](https://github.com/netbox-community/netbox-qrcode) - Plugin for generate QR codes for objects: Rack, Device, Cable
 * [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - git-like branching functionality for NetBox
 * [peteeckel/netbox-plugin-dns](https://github.com/peteeckel/netbox-plugin-dns) - Plugin for managing DNS data
 * [renatoalmeidaoliveira/nbservice](https://github.com/renatoalmeidaoliveira/nbservice) - Plugin for ITSM service mapping

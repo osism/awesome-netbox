@@ -33,10 +33,6 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 * [scaleway/netbox2netshot](https://github.com/scaleway/netbox2netshot) - Inventory synchronization tool between Netbox and Netshot
 * [stfc/Netbox-utils](https://github.com/stfc/Netbox-utils) - Scripts and Utilities for querying and updating information in Netbox
 
-## Exporters
-
-* [Solcon/netbox-gitlab](https://github.com/Solcon/netbox-gitlab) - GitLab export to Ansible Inventory for NetBox
-
 ## SDKs
 
 * [benclaussen/NetboxPS](https://github.com/benclaussen/NetboxPS) - Powershell module for Netbox
@@ -92,6 +88,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 Repositories that are archived or where the last commit was made some time ago (2 years).
 
 * [DanSheps/netbox-secretstore](https://github.com/DanSheps/netbox-secretstore) - Continuation of the NetBox secrets app
+* [Solcon/netbox-gitlab](https://github.com/Solcon/netbox-gitlab) - GitLab export to Ansible Inventory for NetBox
 * [auroraresearchlab/netbox-dns](https://github.com/auroraresearchlab/netbox-dns) - Plugin for managing zone, nameserver and record inventory
 * [gardunha/netbox-routeros](https://github.com/gardunha/netbox-routeros) - Netbox plugin for auto-configuring Mikrotik RouterOS devices
 * [minitriga/axians-netbox-plugin-pdu](https://github.com/minitriga/axians-netbox-plugin-pdu) - Plugin to get PDU information

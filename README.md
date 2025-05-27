@@ -13,7 +13,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 
 ## Deployment
 
-* [bootc/netbox-chart](https://github.com/bootc/netbox-chart) - A Helm chart for NetBox
+* [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox
 * [gmazoyer/ansible-role-netbox](https://github.com/gmazoyer/ansible-role-netbox) - Ansible role that installs on Debian/Ubuntu
 * [lae/ansible-role-netbox](https://github.com/lae/ansible-role-netbox) - Cross-platform Ansible role for deploying NetBox
 * [linuxserver/docker-netbox](https://github.com/linuxserver/docker-netbox) - Docker image of NetBox
@@ -24,6 +24,10 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 * [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import) - The library is intended to be your friend and help you import all the device-types defined within the the NetBox Device Type Library Repository
 * [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions
 * [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) - Project aims to create hardware automatically into Netbox based on standard tools (dmidecode, lldpd, parsing /sys/, etc)
+
+## Discovery
+
+* [sapcc/argora](https://github.com/sapcc/argora) - Netbox discovery for metal3 bare metal hosts
 
 ## Synchronization
 
@@ -51,6 +55,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 * [Alef-Burzmali/netbox-data-flows](https://github.com/Alef-Burzmali/netbox-data-flows) - Document data flows between systems and applications
 * [FlxPeters/netbox-plugin-prometheus-sd](https://github.com/FlxPeters/netbox-plugin-prometheus-sd) - Plugin to use Netbox as service discovery for Prometheus
 * [JonasEinfach/netbox-os-manager](https://github.com/JonasEinfach/netbox-os-manager) - manage operating systems on your network devices
+* [Kani999/netbox-attachments](https://github.com/Kani999/netbox-attachments) - Plugin to attach files to NetBox objects
 * [bonzo81/netbox-librenms-plugin](https://github.com/bonzo81/netbox-librenms-plugin) - Sync data between LibreNMS and Netbox
 * [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea) - Management of Kea DHCP leases
 * [devon-mar/netbox-lists](https://github.com/devon-mar/netbox-lists) - Generate IP and prefix lists

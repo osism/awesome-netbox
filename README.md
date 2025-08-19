@@ -75,7 +75,7 @@ A curated list of awesome [NetBox](https://github.com/netbox-community/netbox) r
 
 ## Integrations
 
-* [simonpainter/netbox-mcp](https://github.com/simonpainter/netbox-mcp) - NetBox MCP (Model Context Protocol) server written in Python for Flask. Allows AI LLMs like Claude to query NetBox data.
+* [simonpainter/netbox-mcp](https://github.com/simonpainter/netbox-mcp) - NetBox MCP (Model Context Protocol) server written in Python using Flask. Allows AI LLMs like Claude to query NetBox data.
 
 * [StackStorm-Exchange/stackstorm-netbox](https://github.com/StackStorm-Exchange/stackstorm-netbox) - NetBox plugin for StackStorm
 * [netdevopsbr/netbox-proxbox](https://github.com/netdevopsbr/netbox-proxbox) - Netbox Plugin for integration between Proxmox and Netbox
